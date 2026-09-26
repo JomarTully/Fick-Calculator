@@ -1,0 +1,1 @@
+Updated Fick calculator. VO2 = 125 mL/min/m2 x Mosteller BSA. Results include estimated VO2, BSA, A-V O2 difference, CaO2, CvO2, CO and CI. Decimal inputs supported. VO2 is estimated, not measured.
